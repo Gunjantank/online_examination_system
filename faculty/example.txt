@@ -1,0 +1,4 @@
+while($row=mysqli_fetch_array($c))
+			{
+				$_SESSION['dept']=$row['dept'];
+			}

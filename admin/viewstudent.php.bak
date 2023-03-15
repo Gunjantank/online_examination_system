@@ -1,0 +1,141 @@
+<?php include 'header.php';?>
+<div class="container-fluid">
+<div class="row">
+		<button type="button" class="btn btn-warning ">+ STUDNT</button>
+	</div>
+</div>
+	<section id="main-content">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="card">
+                                <div class="card-title">
+                                    <h4>STUDENT    LISTING </h4>
+                                    
+                                </div>
+                                <div class="bootstrap-data-table-panel">
+                                    <div class="table-responsive">
+                                        <table id="row-select" class="display table table-borderd table-hover">
+                                            <thead>
+                                               <tr>
+                                                    <th>Student Name</th>
+                                                    <th>Roll No.</th>
+                                                    <th>Department name </th>
+			<th> Semester </th>
+			<th> College Name </th>
+			<th> Action </th>
+                                                </tr>
+		         </thead>
+		         <tbody>
+                                                <tr>
+                                                    <td>Riya</td>
+                                                    <td>101</td>
+                                             	<td>Computer</td>
+			<td>1</td>
+			<td>R.K.University</td>
+			<td> Edit     /    Delete </td>
+                                                </tr>
+                                            </tbody>
+		          <tbody>
+                                                <tr>
+			<td>Yug</td>
+                                                    <td>201</td>
+                                             	<td>Bio Medical</td>
+			<td>3</td>
+			<td>Darshan University</td>
+			<td> Edit     /    Delete </td>
+                                               </tr>
+                                            </tbody>
+		         <tbody>
+                                                <tr>
+                                                   <td>Nirva</td>
+                                                    <td>202</td>
+                                             	<td>Bio Medical</td>
+			<td>3</td>
+			<td>Darshan University</td>
+			<td> Edit     /    Delete </td>
+                                                </tr>
+                                            </tbody>
+		        <tbody>
+                                                <tr>
+                                                    <td>Prit</td>
+                                                    <td>301</td>
+                                             	<td>Electronic & Communication</td>
+			<td>2</td>
+			<td>A.V.Parekh Technical Institute</td>
+			<td> Edit     /    Delete </td>
+                                                </tr>
+                                            </tbody>
+		        <tbody>
+                                                <tr>
+                                                    <td>Yash</td>
+                                                    <td>302</td>
+                                             	<td>Electronic & Communication</td>
+			<td>2</td>
+			<td>A.V.Parekh Technical Institute</td>
+			<td> Edit     /    Delete </td>
+                                                </tr>
+                                            </tbody>
+		        <tbody>
+                                                <tr>
+                                                    <td>Yashvi</td>
+                                                    <td>401</td>
+                                             	<td>CACDDM</td>
+			<td>5</td>
+			<td>A.V.Parekh Technical Institute</td>
+			<td> Edit     /    Delete </td>
+                                                </tr>
+                                            </tbody>
+		        <tbody>
+                                                <tr>
+                                                    <td>Krisha</td>
+                                                    <td>402</td>
+                                             	<td>CACDDM</td>
+			<td>5</td>
+			<td>A.V.Parekh Technical Institute</td>
+			<td> Edit     /    Delete </td>
+                                                </tr>
+                                            </tbody>
+		         <tbody>
+                                                <tr>
+                                                    <td>Kaira</td>
+                                                    <td>105</td>
+                                             	<td>Computer</td>
+			<td>5</td>
+			<td>R.K.University</td>
+			<td> Edit     /    Delete </td>
+                                                </tr>
+                                            </tbody>
+		         <tbody>
+                                                <tr>
+                                                    <td>jayneet</td>
+                                                    <td>110</td>
+                                             	<td>Computer</td>
+			<td>4</td>
+			<td>Aatmiya University</td>
+			<td> Edit     /    Delete </td>
+                                                </tr>
+                                            </tbody>
+		        <tbody>
+                                                <tr>
+                                                    <td>Dhyani</td>
+                                                    <td>501</td>
+                                             	<td>Information Technology</td>
+			<td>6</td>
+			<td>Aatmiya University</td>
+			<td> Edit     /    Delete </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </di>
+                                </div>
+                            </div>
+                            <!-- /# card -->
+                        </div>
+                        <!-- /# column -->
+                    </div>
+                    <!-- /# row -->
+
+                    
+                </section>
+
+<?php include 'footer.php';?>

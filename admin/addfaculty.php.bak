@@ -1,0 +1,29 @@
+<?php include 'header.php';?>
+<!doctype html>
+<head>
+	<title> addfaculty </title>
+</head>
+<body>
+	<center>
+			<h1> + FACULTY </h1></br></br></br></br></br>
+	<form method="POST" action="menu.php">
+	<h4>
+			
+	Faculty Name :
+	<input type="text" name="facultynm"/><br><br></br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+	Department Nmae:
+	<input type="text" name="deptnm"/><br><br></br>
+	
+	Subject :
+	<input type="text" name="subnm"/><br><br></br>
+
+	<input type="submit" name="submit" value="ADD FACULTY"/>
+
+	</h4>
+	</form>
+</center>
+</body>
+</html>
+<?php include 'footer.php';?>

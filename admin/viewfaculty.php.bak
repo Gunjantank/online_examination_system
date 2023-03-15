@@ -1,0 +1,89 @@
+<?php include 'header.php';?>
+<div class="container-fluid">
+<div class="row">
+		<button type="button" class="btn btn-warning ">+ FACULTY</button>
+	</div>
+</div>
+
+
+	<section id="main-content">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="card">
+                                <div class="card-title">
+                                    <h4>FACULTY    LISTING </h4>
+                                    
+                                </div>
+                                <div class="bootstrap-data-table-panel">
+                                    <div class="table-responsive">
+                                        <table id="row-select" class="display table table-borderd table-hover">
+                                            <thead>
+                                               <tr>
+                                                    <th>Faculty Name</th>
+                                                    <th>Department Name </th>
+                                                    <th>Subject</th>
+			<th> Action </th>
+                                                </tr>
+		         </thead>
+		         <tbody>
+                                                <tr>
+                                                    <td>Pratik</td>
+                                                    <td>Computer</td>
+                                                    <td>Java</td>
+													<td> Edit / Delete </td>
+                                                </tr>
+                                            </tbody>
+		          <tbody>
+                                                <tr>
+                                                    <td>Brijesh</td>
+                                                    <td>Electronic</td>
+                                                   	<td> Switch Gear and Protection </td>
+			<td> Edit     /    Delete </td>
+                                                </tr>
+                                            </tbody>
+		         <tbody>
+                                                <tr>
+                                                    <td>vini</td>
+                                                    <td>Bio medical</td>
+                                                    <td>Bio Informatics</td>
+			<td> Edit     /    Delete </td>
+                                                </tr>
+                                            </tbody>
+		        <tbody>
+                                                <tr>
+                                                    <td>komal</td>
+                                                    <td>Computer</td>
+                                                    <td>c++</td>
+			<td> Edit     /    Delete </td>
+                                                </tr>
+                                            </tbody>
+		        <tbody>
+                                                <tr>
+                                                    <td>namy</td>
+                                                    <td>CACDDM</td>
+                                                    <td>PATTERN MAKING CONTOURED GARMENT</td>
+			<td> Edit     /    Delete </td>
+                                                </tr>
+                                            </tbody>
+		        <tbody>
+                                                <tr>
+                                                    <td>Priyal</td>
+                                                    <td>Electronic </td>
+                                                    <td>Electrification of Building Complexes</td>
+			<td> Edit     /    Delete </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </di>
+                                </div>
+                            </div>
+                            <!-- /# card -->
+                        </div>
+                        <!-- /# column -->
+                    </div>
+                    <!-- /# row -->
+
+                    
+                </section>
+
+<?php include 'footer.php';?>
