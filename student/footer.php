@@ -3,7 +3,7 @@
 	<div class="container" >
 		<div class="f-bg-w3l">
 		<div class="col-md-4 w3layouts_footer_grid">
-					<h3>About System</h3>
+					<h3>About examination System</h3>
 					<p>In regular days this system can be helpful because it needs less manpower , simply
      registration methods , instant results , exam can be fill  anywhere  that’s  like  many
      more.
